@@ -10,7 +10,7 @@ public class App
     {
         System.out.println( "Hello World!......." );
         System.out.println("This is Manikyam");
-        System.out.println("M");
+        System.out.println("rM");
         
 
     }
