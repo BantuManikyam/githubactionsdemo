@@ -34,4 +34,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: topkuber/hello-docker:latest
+          tags: manikyam179/performactions:latest
