@@ -34,4 +34,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: manikyam179/performactions:latest
+          tags: manikyam179/hi:latest
